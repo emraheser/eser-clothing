@@ -3,13 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyCEllgkPmSwfM7WQa5Ax0x395GYycr1hFE",
-  authDomain: "eser-clothing-db.firebaseapp.com",
-  databaseURL: "https://eser-clothing-db.firebaseio.com",
-  projectId: "eser-clothing-db",
-  storageBucket: "eser-clothing-db.appspot.com",
-  messagingSenderId: "480015826735",
-  appId: "1:480015826735:web:e111bc52b5698be6"
+  apiKey: "AIzaSyC4HiP7foqpiHn0c7QexmXtTQ_fHFVkKT0",
+  authDomain: "eser-clothing-db-67eea.firebaseapp.com",
+  databaseURL: "https://eser-clothing-db-67eea.firebaseio.com",
+  projectId: "eser-clothing-db-67eea",
+  storageBucket: "eser-clothing-db-67eea.appspot.com",
+  messagingSenderId: "609029459504",
+  appId: "1:609029459504:web:fdc8f619d0ff958e"
 };
 firebase.initializeApp(config);
 
